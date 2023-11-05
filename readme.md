@@ -8,9 +8,7 @@
 
 Flappy bird:[CocosCreator-Demo](https://github.com/cmu-ruoyan-lgl/flappy-bird)
 
-转环解锁(待上传)
-
-Unity入门Demo Runaball：[Unity-Demo](https://github.com/cmu-ruoyan-lgl/Unity-Runaball-Demo)
+转环解锁(待上传)[Unity-Demo](https://github.com/cmu-ruoyan-lgl/Unity-Runaball-Demo)
 
 死寂:[UE4-Demo](https://cmu-ruoyan-lgl.github.io/2022/08/31/Kill-for-life/)
 
@@ -86,5 +84,4 @@ Android Studio自用工具、插件、快捷键、主题：[Android-Studio-Confi
 
 Visual Studio 2022自用工具、插件、快捷键、主题：待更新...
 
-Rider自用工具、插件、快捷键、主题：待更新...
 
