@@ -10,7 +10,7 @@ Flappy bird:[CocosCreator-Demo](https://github.com/cmu-ruoyan-lgl/flappy-bird)
 
 转环解锁(待上传)
 
-Unity入门Demo Runaball：[Unity-Demo](https://github.com/AstroWYH/Unity-Runaball-Demo)
+Unity入门Demo Runaball：[Unity-Demo](https://github.com/cmu-ruoyan-lgl/Unity-Runaball-Demo)
 
 死寂:[UE4-Demo](https://cmu-ruoyan-lgl.github.io/2022/08/31/Kill-for-life/)
 
@@ -34,9 +34,9 @@ git commit备注提交规范:[git-note](https://github.com/cmu-ruoyan-lgl/myLear
 
 LeetCode算法刷题常用函数：[LeetCode-Notes](https://cmu-ruoyan-lgl.github.io/2023/02/14/%E5%88%B7%E9%A2%98%E5%B8%B8%E7%94%A8%E5%87%BD%E6%95%B0/#more)
 
-23种设计模式手写实现笔记（待完善）：[Design-Patterns](https://github.com/AstroWYH/Design-Patterns)
+23种设计模式手写实现笔记（待完善）：[Design-Patterns](https://github.com/cmu-ruoyan-lgl/Design-Patterns)
 
-工具、脚本、小型测试代码：[Code-Accumulation](https://github.com/AstroWYH/Code-Accumulation)
+工具、脚本、小型测试代码：[Code-Accumulation](https://github.com/cmu-ruoyan-lgl/Code-Accumulation)
 
 ### 🌱 算法
 
@@ -54,19 +54,19 @@ UE5委托笔记（单播、多播、动态多播等）源码分析和使用：�
 
 UE5多线程笔记（Runable、GraphTask、AsyncTask等）源码分析和使用：待更新...
 
-UE5蓝图/C++完全代码对照入门Demo：[FirstPerson-Demo-UE5](https://github.com/AstroWYH/FirstPerson-Demo-UE5) & [FirstPerson-Demo-UE5-BP ](https://github.com/AstroWYH/FirstPerson-Demo-UE5-BP)
+UE5蓝图/C++完全代码对照入门Demo：[FirstPerson-Demo-UE5](https://github.com/cmu-ruoyan-lgl/FirstPerson-Demo-UE5) & [FirstPerson-Demo-UE5-BP ](https://github.com/cmu-ruoyan-lgl/FirstPerson-Demo-UE5-BP)
 
 ### 🌱 图形学
 
-图形学、OpenGL、Glsl、Unity Shader常用知识笔记：[OpenGL-Shader-Notes](https://github.com/AstroWYH/OpenGL-Shader-Notes)
+图形学、OpenGL、Glsl、Unity Shader常用知识笔记：[OpenGL-Shader-Notes](https://github.com/cmu-ruoyan-lgl/OpenGL-Shader-Notes)
 
-图像处理OpenCV常用方法（毛星云版）整理：[OpenCV3-Code-Notes](https://github.com/AstroWYH/OpenCV3-Code-Notes)
+图像处理OpenCV常用方法（毛星云版）整理：[OpenCV3-Code-Notes](https://github.com/cmu-ruoyan-lgl/OpenCV3-Code-Notes)
 
-机器学习&深度学习（吴恩达/Tudui）&TensorFlow/Pytorch笔记：[DeepLearning-Pytorch-Notes](https://github.com/AstroWYH/DeepLearning-Pytorch-Notes)
+机器学习&深度学习（吴恩达/Tudui）&TensorFlow/Pytorch笔记：[DeepLearning-Pytorch-Notes](https://github.com/cmu-ruoyan-lgl/DeepLearning-Pytorch-Notes)
 
-LearnOpenGLCN在线开源课程学习与代码注释：[LearnOpenGLCN-Notes](https://github.com/AstroWYH/LearnOpenGLCN-Notes)
+LearnOpenGLCN在线开源课程学习与代码注释：[LearnOpenGLCN-Notes](https://github.com/cmu-ruoyan-lgl/LearnOpenGLCN-Notes)
 
-Games101 C++软渲染管线作业：[Games101-Render-Pipeline-Homework](https://github.com/AstroWYH/Games101-Render-Pipeline-Homework)
+Games101 C++软渲染管线作业：[Games101-Render-Pipeline-Homework](https://github.com/cmu-ruoyan-lgl/Games101-Render-Pipeline-Homework)
 
 Games101课堂笔记（渲染、几何、光线追踪、动画模拟）：[Games101-Class-Notes](https://github.com/cmu-ruoyan-lgl/Games101-Class-Notes)
 
@@ -74,16 +74,15 @@ Games101课堂笔记（渲染、几何、光线追踪、动画模拟）：[Games
 
 2022Google开发者大会游记:[Technical-meeting](https://cmu-ruoyan-lgl.github.io/2022/09/13/Google-view/)
 
-
 ### 🌱 IDE调教
 
 MAC常用快捷键:[MAC-note](https://github.com/cmu-ruoyan-lgl/myLearnNote/blob/main/Mac%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE.md)
 
-Linux/Windows环境开发适配：[Linux-Win-Dev-Environment](https://github.com/AstroWYH/Linux-Win-Dev-Environment)
+Linux/Windows环境开发适配：[Linux-Win-Dev-Environment](https://github.com/cmu-ruoyan-lgl/Linux-Win-Dev-Environment)
 
-VsCode自用工具、插件、快捷键、主题：[VsCode-Configs](https://github.com/AstroWYH/VsCode-Configs)
+VsCode自用工具、插件、快捷键、主题：[VsCode-Configs](https://github.com/cmu-ruoyan-lgl/VsCode-Configs)
 
-Android Studio自用工具、插件、快捷键、主题：[Android-Studio-Configs](https://github.com/AstroWYH/Android-Studio-Configs)
+Android Studio自用工具、插件、快捷键、主题：[Android-Studio-Configs](https://github.com/cmu-ruoyan-lgl/Android-Studio-Configs)
 
 Visual Studio 2022自用工具、插件、快捷键、主题：待更新...
 
