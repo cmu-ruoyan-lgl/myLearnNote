@@ -28,6 +28,10 @@ git常用命令:[Git-Basic-words](https://cmu-ruoyan-lgl.github.io/2023/02/04/Gi
 
 .gitignore常用模板:[Git-gitignore-template](https://github.com/github/gitignore)
 
+git commit备注提交规范:[git-note](https://github.com/cmu-ruoyan-lgl/myLearnNote/blob/main/git%20commit%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83.md)
+
+常用markdown语法总结:[markdown-note](https://github.com/cmu-ruoyan-lgl/myLearnNote/blob/main/ReadME%20%E5%B8%B8%E7%94%A8%E8%AF%AD%E6%B3%95.md)
+
 LeetCode算法刷题常用函数：[LeetCode-Notes](https://cmu-ruoyan-lgl.github.io/2023/02/14/%E5%88%B7%E9%A2%98%E5%B8%B8%E7%94%A8%E5%87%BD%E6%95%B0/#more)
 
 23种设计模式手写实现笔记（待完善）：[Design-Patterns](https://github.com/AstroWYH/Design-Patterns)
@@ -72,6 +76,8 @@ Games101课堂笔记（渲染、几何、光线追踪、动画模拟）：[Games
 
 
 ### 🌱 IDE调教
+
+MAC常用快捷键:[MAC-note](https://github.com/cmu-ruoyan-lgl/myLearnNote/blob/main/Mac%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE.md)
 
 Linux/Windows环境开发适配：[Linux-Win-Dev-Environment](https://github.com/AstroWYH/Linux-Win-Dev-Environment)
 
