@@ -2,6 +2,8 @@
 
 ### 🌱 Demo
 
+水面反射Shader:[CocosCreator-Shader](https://github.com/cmu-ruoyan-lgl/WaterReflectShader)
+
 羊了个羊（待上传）
 
 合成大西瓜（待上传）
