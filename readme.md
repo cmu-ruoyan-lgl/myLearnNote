@@ -24,13 +24,17 @@ Flappy bird:[Unity-Demo](https://github.com/cmu-ruoyan-lgl/Flappy-bird-by-Unity)
 
 2048小游戏安卓原生版:[Android-Demo](https://github.com/cmu-ruoyan-lgl/android-2048)
 
-### 🌱 基础
+### 🌱 GIT
 
 git常用命令:[Git-Basic-words](https://cmu-ruoyan-lgl.github.io/2023/02/04/Git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E6%95%B4%E7%90%86/#more)
 
 .gitignore常用模板:[Git-gitignore-template](https://github.com/github/gitignore)
 
 git commit备注提交规范:[git-note](https://github.com/cmu-ruoyan-lgl/myLearnNote/blob/main/git%20commit%E6%8F%90%E4%BA%A4%E8%A7%84%E8%8C%83.md)
+
+git 高级功能详解(todo)
+
+### 🌱 刷题生产力
 
 常用markdown语法总结:[markdown-note](https://github.com/cmu-ruoyan-lgl/myLearnNote/blob/main/ReadME%20%E5%B8%B8%E7%94%A8%E8%AF%AD%E6%B3%95.md)
 
