@@ -23,3 +23,13 @@ commond + l:删除上一条命令command + 方向键:不同窗口的方向键移
 command + shift + 方向键:相同窗口的方向键移动
 open yourfile:以默认方式打开文件
 open -a "yourfile":打开应用
+
+### 常用终端命令
+
+clear:清除屏幕
+ls:列出文件
+pwd:显示当前路径
+cd:切换目录
+cd ..:返回上一级目录
+cd ~:返回主目录
+cd /:返回根目录
