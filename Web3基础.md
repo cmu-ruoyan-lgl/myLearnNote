@@ -140,3 +140,10 @@ ps：侧链有争议性，很多侧链的去中心化程度很弱，侧链的验
 在区块链上的应用（下面两个不是layer2）：
 - Zcash
 - Filecoin
+
+### EIP（Ethereum Improvement Proposals）
+
+### ERC（Ethereum Request for Comments）
+- 代币标准合约（ERC20）
+- NFT非同质化代币（ERC721、ERC1155）
+- 半同质化代币（ERC3475、ERC3525）
