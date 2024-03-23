@@ -6,8 +6,6 @@ POA: proof of authority 权力证明 在POA中，网络的验证者（也称为�
 POC: proof of capacity 也被称为Proof of Space（PoSpace）容量证明 在POC中，参与者的硬件存储容量决定了他们被选中创建新区块的概率。
 CPOC: consensus proof of capacity 也被称为Consensus Proof of Space（CPOSpace）共识容量证明 在CPOC中，参与者的硬件存储容量决定了他们被选中创建新区块的概率。
 
-
-
 ### web3密码学基础
 
 crypto: Crypto最广泛的理解是指加密货币，比如比特币（Bitcoin）、以太坊（Ethereum）等。这些数字货币基于密码学原理构建，通过分布式账本技术（如区块链）实现去中心化、安全的交易。
