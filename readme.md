@@ -2,6 +2,10 @@
 
 ### 🌱 Demo
 
+DOOR：[Solidity传图项目](https://github.com/cmu-ruoyan-lgl/Door)
+
+闪电贷(待上传): [套利，react+python+solidity]
+
 水面反射Shader:[CocosCreator-Shader](https://github.com/cmu-ruoyan-lgl/WaterReflectShader)
 
 羊了个羊（待上传）
@@ -23,6 +27,16 @@ Flappy bird:[Unity-Demo](https://github.com/cmu-ruoyan-lgl/Flappy-bird-by-Unity)
 停车管理系统:[h5-Demo](https://github.com/cmu-ruoyan-lgl/park)
 
 2048小游戏安卓原生版:[Android-Demo](https://github.com/cmu-ruoyan-lgl/android-2048)
+
+### WEB3
+
+比特币白皮书:[bitcoin-white-paper](https://github.com/cmu-ruoyan-lgl/myLearnNote/blob/main/Lessons/Bitcoin-paper.md)
+
+以太坊白皮书(待上传)
+
+以太坊黄皮书(待上传)
+
+Solana白皮书(待上传)
 
 ### 🌱 GIT
 
